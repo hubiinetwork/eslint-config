@@ -1,0 +1,20 @@
+{
+  "name": "@hubiinetwork/eslint-config",
+  "version": "1.0.0",
+  "description": "Hubii ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "Hubii"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 4"
+  },
+  "author": "Jon K. Bernhardsen",
+  "license": "ISC",
+  "repository": "github:hubiinetwork/eslint-config-hubii"
+}
