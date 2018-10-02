@@ -8,7 +8,7 @@ to make sure you are following the Hubii JavaScript coding style.
 
 ## Installation
 
-    npm install hubiinetwork/eslint-config --save-dev
+    npm install eslint hubiinetwork/eslint-config --save-dev
 
 ## Usage
 
