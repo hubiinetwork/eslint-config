@@ -33,6 +33,12 @@ module.exports = {
     "no-console": 0,
     "no-multi-spaces": [
       "error"
+    ],
+    "eqeqeq": [
+      "error"
+    ],
+    "prefer-const": [
+      "error"
     ]
   }
 };
